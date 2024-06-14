@@ -13,6 +13,7 @@
 ![register](https://github.com/AdityaB1152/infras/assets/83021173/5569bb0d-8aba-4d21-b451-33a67eaad2c4)
 
 ![mongo_user](https://github.com/AdityaB1152/infras/assets/83021173/3bf0637d-2d67-4bcb-bbba-203f6342527f)
+![toast2](https://github.com/AdityaB1152/infras/assets/83021173/cd4d65de-7d13-4a0b-94eb-bd4ed7269d99)
 
 
 # Product Display: A product listing page displaying items fetched from the backend.(UI is very vauge,but perfectly working with backend apis)
